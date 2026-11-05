@@ -1,0 +1,20 @@
+sample	region	apiary	declared_strain	collection_date
+Ac	Incheon (INU)	INU	tojong (native)	2025-08-08
+Ac_GP1	Gapyeong	GP-a	tojong (native)	2025-08-08
+Ac_GP2	Gapyeong	GP-a	Hallabeol	2025-08-08
+Ac_GP3	Gapyeong	GP-b	tojong (native)	2025-08-08
+Ac_GP4	Gapyeong	GP-c	tojong (native)	2025-08-08
+Ac_GP5	Gapyeong	GP-d	tojong (native)	2025-08-08
+CWN2_AC1	Cheorwon	CWN-a	tojong (native)	2026-04-22
+CWN2_AC2	Cheorwon	CWN-a	tojong (native)	2026-04-22
+CWN2_AC3	Cheorwon	CWN-a	tojong (native)	2026-04-22
+CWN4_AC1	Cheorwon	CWN-b	tojong (native)	2026-04-22
+IC_AC_1	Icheon	IC-a	tojong (native)	2026-04-08
+IC_AC_2	Icheon	IC-a	tojong (native)	2026-04-08
+WJ_AC_1	Wonju	WJ-a	tojong (native)	2026-04-08
+WJ_AC_2	Wonju	WJ-a	tojong (native)	2026-04-08
+WJ_AC_3	Wonju	WJ-a	Cherry	2026-04-08
+WJ_AC_4	Wonju	WJ-a	Cherry × tojong	2026-04-08
+WJ_AC_5	Wonju	WJ-a	tojong (native)	2026-04-08
+YP_AC2	Yangpyeong	YP-a	Hallabeol	2026-04-08
+YP_AC_3	Yangpyeong	YP-a	Hallabeol	2026-04-08

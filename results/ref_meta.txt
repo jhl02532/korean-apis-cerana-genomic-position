@@ -1,0 +1,36 @@
+SRR10549560	China:Guizhou
+SRR27281404	China:Guizhou
+SRR10549773	China:Yunnan
+SRR10549780	China:Yunnan
+SRR10549561	China:Guangxi
+SRR10549562	China:Guangxi
+SRR10549706	China:Hainan
+SRR10549713	China:Hainan
+SRR10549581	China:Sichuan
+SRR10549752	China:Sichuan
+SRR10549820	China:Shandong
+SRR10549824	China:Shandong
+SRR10549541	China:Henan
+SRR10549539	China:HongKong
+SRR10549661	China:Jilin
+SRR10549668	China:Jilin
+SRR10549655	China:Liaoning
+SRR6301326	China:Liaoning
+DRR397678	Nagano, Iida	Northern
+DRR397636	Ibaraki, Itako	Northern
+DRR397667	Niigata, Minamiuonuma	Northern
+DRR397622	Iwate, Morioka	Northern
+DRR397647	Kanagawa, Yokohama	Northern
+DRR397625	Yamagata, Yamagata	Northern
+DRR397680	Mie, Tsu	Central
+DRR397687	Kyoto, Kyoto	Central
+DRR397690	Ehime, Toon	Central
+DRR397702	Shimane, Matsue	Central
+DRR397682	Mie, Nabari	Central
+DRR397688	Ehime, Toon	Central
+DRR397718	Kagoshima, Minamikyushu	Southern
+DRR397704	Fukuoka, Kurume	Southern
+DRR397703	Oita, Yufu	Southern
+DRR397708	Kumamoto, Amakusa	Southern
+DRR397717	Kagoshima, Kirishima	Southern
+DRR397705	Fukuoka, Kurume	Southern

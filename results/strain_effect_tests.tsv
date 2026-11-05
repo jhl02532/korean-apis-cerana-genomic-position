@@ -1,0 +1,19 @@
+test	data	n	df	covariates	R2	pseudo_F	p
+A. Tojong(14) vs Halla(3)	SNP	17	1	none	0.065	1.043	0.2167
+A. Tojong(14) vs Halla(3)	SNP	17	1	index	0.066	1.112	0.1043
+A. Tojong(14) vs Halla(3)	SNP	17	1	region	0.0564	0.889	0.936
+A. Tojong(14) vs Halla(3)	SNP	17	1	index+region	0.0567	0.943	0.7938
+C. declared strain, 4 levels	SNP	19	3	index	0.1806	1.19	0.0295
+C. declared strain, 4 levels	SNP	19	3	region	0.1743	1.072	0.1862
+C. declared strain, 4 levels	SNP	19	3	index+region	0.1664	1.082	0.123
+D. 3 levels (singletons merged)	SNP	19	2	index	0.1185	1.153	0.0314
+D. 3 levels (singletons merged)	SNP	19	2	index+region	0.1042	0.995	0.5215
+A. Tojong(14) vs Halla(3)	SV	17	1	none	0.0664	1.068	0.1573
+A. Tojong(14) vs Halla(3)	SV	17	1	index	0.0669	1.115	0.0614
+A. Tojong(14) vs Halla(3)	SV	17	1	region	0.0574	0.916	0.9014
+A. Tojong(14) vs Halla(3)	SV	17	1	index+region	0.0575	0.957	0.7854
+C. declared strain, 4 levels	SV	19	3	index	0.1768	1.147	0.0241
+C. declared strain, 4 levels	SV	19	3	region	0.1726	1.072	0.1448
+C. declared strain, 4 levels	SV	19	3	index+region	0.1637	1.059	0.1361
+D. 3 levels (singletons merged)	SV	19	2	index	0.1163	1.118	0.0308
+D. 3 levels (singletons merged)	SV	19	2	index+region	0.1031	0.983	0.6373

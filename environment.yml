@@ -1,0 +1,26 @@
+# Tool versions used for the published analysis (2026-10).
+# The pipeline (folders 00-07) ran with the versions pinned below.
+# The figure scripts were checked to reproduce the published figures pixel by pixel with
+# Python 3.13, matplotlib 3.10.7, numpy 2.3.5, pandas 2.3.3, scipy 1.16.3 and cartopy 0.25;
+# cartopy downloads Natural Earth coastlines the first time Fig. 1 is drawn.
+name: kh19
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.12
+  - numpy=1.26.4
+  - scipy=1.11.4
+  - pandas=2.1.4
+  - matplotlib
+  - cartopy
+  - minimap2=2.26
+  - samtools=1.19
+  - bcftools=1.24
+  - htslib          # bgzip, tabix
+  - plink2          # analysis used PLINK v2.00a6 (23 Nov 2023)
+  - mosdepth=0.3.14
+  - bwa             # reference individuals
+  - gatk4           # MarkDuplicates, reference individuals
+  - sra-tools       # fasterq-dump for reference individuals
+  - pip
+  - pip:
+      - sniffles==2.8.1
