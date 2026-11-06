@@ -16,7 +16,7 @@ PacBio HiFi reads from 19 managed Korean *A. cerana* colonies (one worker each) 
 
 | Data | Source |
 |---|---|
-| HiFi reads of the 19 colonies (FASTQ); SNP and SV call sets (VCF) | NABIC (https://nabic.rda.go.kr), accession **[to be added]** |
+| HiFi reads of the 19 colonies (FASTQ) | NABIC (https://nabic.rda.go.kr) (to be deposited upon publication) |
 | Reference genome AcerK_1.0 | NCBI GCF_029169275.1 |
 | RefSeq annotation | NCBI GCF_029169275.2, release RS_2026_08 |
 | Chinese assemblies for diagnostic sites | GCA_011100585.1 (Hainan), GCA_020141525.2 (Sichuan), GCA_029531695.1 (Hubei), GCA_039655025.1 (Qinghai). These are downloaded by `04_ancestry_index/01_*.sh` |
